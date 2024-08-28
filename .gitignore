@@ -1,4 +1,5 @@
 frame-utilities-for-python/
+*.jpg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
